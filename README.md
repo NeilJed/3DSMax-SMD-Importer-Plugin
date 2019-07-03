@@ -16,15 +16,12 @@ This plug-in allows 3D Studio Max to import SMD format files used primarily in H
 * Coordinate space mapping to "stand up" models made with Maya.
 
 ## Supported versions
-* 3DS Max 9 - 32/64bit
-* 3DS Max 2008 - 32/64bit
-* 3DS Max 2009 - 32/64bit
-* 3DS Max 2010 - 32/64bit
-* 3DS Max 2011 - 32/64bit
-* 3DS Max 2012 - 32/64bit
+3DS Max 2017 - 64bit
+3DS Max 2018 - 64bit
+3DS Max 2019 - 64bit
 
 ## Installation
-32-bit versions of the plug-in are named `SMDImporter.dle`, 64-bit versions `SMDImporterx64.dle`. Copy the correct version for your edition of 3D Studio Max into your 3DS Max plug-ins folder (i.e. `C:\Program Files\Autodesk\3ds Max 2012\Plugins`)and re-start. You can check it's loaded via the Plug-ins Manager.
+Copy the `SMDImporter.dle`file for the correct version for your edition of 3D Studio Max into your 3DS Max plug-ins folder (i.e. `C:\Program Files\Autodesk\3ds Max 2019\Plugins`) and re-start. You can check it's loaded via the Plug-ins Manager.
 
 ## Basic usage
 Once installed, using the *Import* option of the File menu you should find *Valve SMD* as an option.

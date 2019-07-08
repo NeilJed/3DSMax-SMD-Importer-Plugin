@@ -19,9 +19,10 @@ This plug-in allows 3D Studio Max to import SMD format files used primarily in H
 3DS Max 2017 - 64bit
 3DS Max 2018 - 64bit
 3DS Max 2019 - 64bit
+3DS Max 2020 - 64bit
 
 ## Installation
-Copy the `SMDImporter.dle`file for the correct version for your edition of 3D Studio Max into your 3DS Max plug-ins folder (i.e. `C:\Program Files\Autodesk\3ds Max 2019\Plugins`) and re-start. You can check it's loaded via the Plug-ins Manager.
+Copy the `SMDImporter.dle`file for the correct version for your edition of 3D Studio Max into your 3DS Max plug-ins folder (i.e. `C:\Program Files\Autodesk\3ds Max 2020\Plugins`) and re-start. You can check it's loaded via the Plug-ins Manager.
 
 ## Basic usage
 Once installed, using the *Import* option of the File menu you should find *Valve SMD* as an option.

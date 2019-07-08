@@ -2,6 +2,9 @@
 
 ## Changelog
 
+### 1.2-rev2
+* Added support for  Max 2020
+
 ### 1.2
 * Deprecated support for older 3DS Max versions.
 * Added support for Max 2019.
